@@ -1,4 +1,4 @@
--** GÖK-KÖK Canlı Takip Sistemi -**
+- ** GÖK-KÖK Canlı Takip Sistemi ** -
 
 - Gök kök kapalı döngü bir uzay yaşam destek sisteminin dijital ikizidir.
 
@@ -7,7 +7,7 @@
 
 - Canlı Simülasyon Linki: https://ibrahimhalilyildirim.github.io/NOVACORE-Gok-Kok/
 
-- **Karar Destek Mekanizması**
+- **Karar Destek Mekanizması** -
 
 - Simülasyonda her bir mürettebat üyesinin oksijen tüketim katsayısı 0.84 olarak belirlenmiştir.
   Bu değer, NASA'nın Gelişmiş Yaşam Destek (ALS) verilerine göre bir astronotun günlük ortalama oksijen tüketimiyle (0.84 kg/gün) birebir örtüşmektedir.
@@ -19,7 +19,7 @@
 - Uzay tarımında ısı yönetimi hayatidir. Simülasyonda ışık optimizasyonu arttıkça sistem ısısı artar;
   ancak Su Buharı (Mist) seviyesi artırıldığında, gerçek hayattaki terleme ve buharlaşma ile soğuma etkisi simüle edilerek ısı dengelenir.
 
--**Analiz Metrikleri ve Formüller**-
+- **Analiz Metrikleri ve Formüller** -
 
 - Net O2: Bitki ve alglerin toplam üretiminden mürettebat tüketiminin çıkarılmasıyla elde edilir.
 
