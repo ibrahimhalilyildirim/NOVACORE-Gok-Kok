@@ -1,1 +1,0 @@
-# NOVACORE-Gok-Kok
