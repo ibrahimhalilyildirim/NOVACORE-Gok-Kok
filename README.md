@@ -5,7 +5,6 @@
 - Bu dijital ikiz gerçekçi simülasyon yeteneği sayesinde uzayda kurulan bir üs için bitki gelişimi,
   mürettebatın oksijen tüketimi ve enerji verimliliği gibi önemli faktörler arasındaki hassas dengeyi matematiksel modellerle analiz eder.
 
-- Canlı Simülasyon Linki: https://ibrahimhalilyildirim.github.io/NOVACORE-Gok-Kok/
 
 - **Karar Destek Mekanizması** -
 
